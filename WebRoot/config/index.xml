@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<first_page>
+	<!--  轮播图  -->
+	<title_img>
+		<item href="" src="images/jr750.315.jpg" alt=""></item>
+		<item href="" src="images/9003020062684929_1_o.jpg" alt=""></item>
+		<item href="" src="images/9006460087334197_1_o.jpg" alt=""></item>
+		<item href="" src="images/wmws750315.jpg" alt=""></item>
+	</title_img>
+
+
+	<hot_maping title="最新热门">
+		<item>
+			<book_id>20180829110001</book_id>    <!-- //年月日小时当前id -->
+
+		</item>
+	</hot_maping>
+	<title_maping title="科幻/烧脑">
+		<item>
+			<book_id>20180829110002</book_id>    <!-- //年月日小时当前id -->
+			<book_name>月亮与六便士</book_name>
+			<book_author>xxx</book_author>
+			<book_img_url>images/24175371-1_w_70.jpg</book_img_url>
+			<book_price>23.7</book_price>
+			<!-- 库存 -->
+			<book_now_num>669</book_now_num>
+			<!-- 销量 -->
+			<book_out_num>108</book_out_num>
+		</item>
+	</title_maping>
+	<title_maping title="文学/历史">
+		<item>
+			<book_id>20180829110003</book_id>    <!-- //年月日小时当前id -->
+			<book_name>月亮与六便士</book_name>
+			<book_author>徐淳刚</book_author>
+			<book_img_url>images/24175371-1_w_70.jpg</book_img_url>
+			<book_price>23.7</book_price>
+			<!-- 库存 -->
+			<book_now_num>669</book_now_num>
+			<!-- 销量 -->
+			<book_out_num>108</book_out_num>
+		</item>
+	</title_maping>
+</first_page>
+
